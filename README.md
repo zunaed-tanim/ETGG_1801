@@ -3,7 +3,7 @@ ETGG_1801
 # branch 01 = Lab 01 (each branch is a weekly Lab assignment)
 
 
-# ------------------------------------ LAB 1 ASSIGNMENT ---------------------------------------------
+# # # *** LAB 1 ASSIGNMENT *** # # #
 """
 [ETGG 1801] Lab 1 - Hello World
 [Fall 2020 - Online Edition]
