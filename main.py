@@ -1,7 +1,7 @@
 # Could ID-Section  : ETGG1801.90
 # Name              : Md Zunaed Tanim
 # Lab               : 2 / Expressions
-# Date Created      : 14 September, 2020
+# Date Created      : 16 September, 2020
 # Git Repository    : https://github.com/zunaed-tanim/ETGG_1801/blob/Lab-02/main.py
 
 # import Pillow library
