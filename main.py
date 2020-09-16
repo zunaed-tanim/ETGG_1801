@@ -5,7 +5,7 @@
 # Git Repository    : https://github.com/zunaed-tanim/ETGG_1801/blob/Lab-02/main.py
 
 # import Pillow library
-import PIL
+import PIL.Image
 
 # ------------------ STEP 03 ------------------
 
