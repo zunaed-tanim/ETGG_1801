@@ -1,4 +1,4 @@
-# Could ID-Section  : ETGG1801.90
+# Course ID-Section : ETGG1801.90
 # Name              : Md Zunaed Tanim
 # Lab               : 2 / Expressions
 # Date Created      : 16 September, 2020
