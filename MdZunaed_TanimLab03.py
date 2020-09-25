@@ -4,7 +4,7 @@
 # Name              : Md Zunaed Tanim
 # Lab               : 3 / Modules
 # Date Created      : 25 September, 2020
-# Git Repository    : https://github.com/zunaed-tanim/ETGG_1801/blob/Lab-02/MdZunaed_TanimLab02.py
+# Git Repository    : https://github.com/zunaed-tanim/ETGG_1801/blob/Lab-02/MdZunaed_TanimLab03.py
 
 # ------------------ STEP 03 ------------------
 
